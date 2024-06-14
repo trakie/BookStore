@@ -1,0 +1,4 @@
+- Dựa trên Python, Flask, HTML5, CSS, JS, MS-SQL
+- Người dùng đăng ký, đăng nhập, đăng xuất, xem và đặt sách online, bình luận sách.
+- Thu ngân lập và in hóa đơn mua sách. 
+- Quản trị viên thống kê doanh thu, quản lý sách và thay đổi thời gian tự động xóa đơn hàng.
